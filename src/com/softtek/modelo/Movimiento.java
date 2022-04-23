@@ -12,6 +12,7 @@ public class Movimiento {
     
 	@Override
 	public String toString() {
+		//Esto es un movimiento
 		return "Movimiento [id=" + id + ", tipoMovimiento=" + tipoMovimiento + ", cantidad=" + cantidad + ", moneda="
 				+ moneda + ", cuenta=" + cuenta + "]";
 	}
